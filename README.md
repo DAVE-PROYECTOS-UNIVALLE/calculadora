@@ -1,4 +1,2 @@
-# calculadora
+# calcu
 
-hola soy tu colaborador
-Santiago Guerrero Toro
